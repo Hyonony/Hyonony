@@ -1,6 +1,4 @@
-# 👋 안녕하세요, Hyonony 입니다!
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontColor=ffffff)
+## 👋 안녕하세요, Hyonony 입니다!
 
 ## 💻 기술 스택
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
