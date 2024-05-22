@@ -1,6 +1,6 @@
 ## 👋 Hello, I am Hyonony!
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Hyonony's%20GitHub!&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -24,4 +24,4 @@ I am a software developer named Hyonony. I enjoy learning new technologies and s
 - Email: [sic6688@naver.com](mailto:sic6688@naver.com)
 - Blog: [Hyonony's Blog](https://blog.naver.com/sic6688)
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Thank%20you!&fontSize=30&fontColor=ffffff&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=30&fontColor=ffffff&animation=fadeIn)
