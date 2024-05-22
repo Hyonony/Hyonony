@@ -1,7 +1,6 @@
 ## 👋 안녕하세요, Hyonony 입니다!
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontColor=ffffff)
-
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 ## 💻 기술 스택
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -13,7 +12,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🧑‍💻 About Me
-저는 SW 개발자입니다. 새로운 기술을 배우고, 문제를 해결하는 것을 좋아합니다.
+저는 SW 개발자 Hyonony입니다. 새로운 기술을 배우고, 문제를 해결하는 것을 좋아합니다.
 
 ## 📈 GitHub 통계
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyonony&show_icons=true&theme=radical)
@@ -24,4 +23,4 @@
 - 블로그: [Hyonony's Blog](https://blog.naver.com/sic6688)
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you!&fontSize=50&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Thank%20you!&fontSize=30&fontColor=ffffff&animation=fadeIn)
