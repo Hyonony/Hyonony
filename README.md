@@ -16,7 +16,7 @@ I am a software developer named Hyonony. I enjoy learning new technologies and s
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyonony&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyonony&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyonony)
 
 ## 📫 Contact
 - Email: [sic6688@naver.com](mailto:sic6688@naver.com)
