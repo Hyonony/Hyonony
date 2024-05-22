@@ -15,8 +15,8 @@
 저는 SW 개발자입니다. 새로운 기술을 배우고, 문제를 해결하는 것을 좋아합니다.
 
 ## 📈 GitHub 통계
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-Hyonony&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-Hyonony&layout=compact&theme=radical)
 
 ## 📫 연락처
 - 이메일: [sic6688@naver.com](sic6688@naver.com)
