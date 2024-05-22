@@ -1,5 +1,7 @@
 ## 👋 안녕하세요, Hyonony 입니다!
 
+--
+
 ## 💻 기술 스택
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
