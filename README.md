@@ -1,18 +1,37 @@
-## Hi there 👋
+# 프로젝트 이름
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-<!--
-**Hyonony/Hyonony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=프로젝트%20이름&fontSize=90)
 
-Here are some ideas to get you started:
+## 소개
+프로젝트에 대한 간략한 소개를 여기에 작성하세요.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 기술 스택
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 기능
+- 주요 기능 1
+- 주요 기능 2
+- 주요 기능 3
+
+## 설치 방법
+1. 레포지토리를 클론합니다.
+    ```bash
+    git clone https://github.com/사용자명/레포지토리명.git
+    ```
+2. 필요한 패키지를 설치합니다.
+    ```bash
+    npm install
+    ```
+
+## 사용 예제
+프로젝트를 사용하는 예제를 여기에 작성하세요.
+
+```python
+print("Hello, World!")
+
