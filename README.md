@@ -15,10 +15,10 @@
 I am a software developer named Hyonony. I enjoy learning new technologies and solving problems.
 
 ## 📈 GitHub Stats (Public Contributions)
-![Hyonony's Stats](https://github-readme-stats.vercel.app/api?username=Hyonony&show_icons=true&count_private=true&theme=radical)
+![Hyonony's Stats](https://github-readme-stats.vercel.app/api?username=Hyonony&show_icons=true&theme=radical)
 
 ## 📈 GitHub Stats (Private Contributions)
-![Hyonony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyonony&count_private=true)
+![Hyonony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyonony&count_private=true&show_icons=true)
 
 ## 🔥 Top Languages (Public Repos)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyonony&layout=compact&count_private=true)
