@@ -14,7 +14,7 @@
 ## 🧑‍💻 About Me
 I am a software developer named Hyonony. I enjoy learning new technologies and solving problems.
 
-## 📈 GitHub Stats (Including Private Contributions)
+## 📈 GitHub Stats (Public Contributions)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyonony&show_icons=true&count_private=true&theme=radical)
 
 ## 🔥 Top Languages (Including Private Repos)
